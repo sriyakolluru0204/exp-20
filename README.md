@@ -114,32 +114,3 @@ This experiment successfully demonstrates the power of Python for handling large
 
 Geospatial visualization provided a clear picture of the pandemic's global footprint, while Feature Engineering (Active cases) allowed for a deeper understanding of the pandemic beyond just cumulative totals. The analysis concludes that while total confirmed cases provide the scale of the pandemic, active case counts and recovery rates are more indicative of the current healthcare status of a region.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Contributors
-1
-@swastikkmaurya
-swastikkmaurya Swastik
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2026 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
